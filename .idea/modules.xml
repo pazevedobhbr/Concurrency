@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Buffered-Channels/.idea/Buffered-Channels.iml" filepath="$PROJECT_DIR$/Buffered-Channels/.idea/Buffered-Channels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Channel-Select/.idea/Channel-Select.iml" filepath="$PROJECT_DIR$/Channel-Select/.idea/Channel-Select.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Concurrency.iml" filepath="$PROJECT_DIR$/.idea/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dining-philosophers/.idea/Dining-philosophers.iml" filepath="$PROJECT_DIR$/Dining-philosophers/.idea/Dining-philosophers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mutex/.idea/Mutex.iml" filepath="$PROJECT_DIR$/Mutex/.idea/Mutex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Product-Consumer/.idea/Product-Consumer.iml" filepath="$PROJECT_DIR$/Product-Consumer/.idea/Product-Consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Simple-Channels/.idea/Simple-Channels.iml" filepath="$PROJECT_DIR$/Simple-Channels/.idea/Simple-Channels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sleeping-Barber/.idea/Sleeping-Barber.iml" filepath="$PROJECT_DIR$/Sleeping-Barber/.idea/Sleeping-Barber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Subscriptions-Final/.idea/Subscriptions-Final.iml" filepath="$PROJECT_DIR$/Subscriptions-Final/.idea/Subscriptions-Final.iml" />
+    </modules>
+  </component>
+</project>
